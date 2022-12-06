@@ -7,7 +7,7 @@ Implementation of the Paper "Novel Molecular Representations using Neumann-Cayle
 ### Conda
 Create a new ncgru_fp enviorment:
 ```bash
-git clone https://github.com/jrwnter/cddd.git
+git clone [https://github.com/Edison1994/NC-GRU-molecular-representation.git]
 conda env create -f env.yml
 source activate ncgru_fp
 ```
@@ -22,7 +22,7 @@ Install additional zmq package:
 pip install zmq
 ```
 
-## Getting Data
+## Getting Data (from Google Drive)
 ```bash
 
 ```
