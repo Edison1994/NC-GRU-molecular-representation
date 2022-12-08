@@ -27,6 +27,7 @@ pip install zmq
 ```bash
 
 ```
+The google_drive_data.zip file can also be downloaded manualy under https://drive.google.com/drive/folders/1GwcGNWcl8IbY0TnFfw9U02wWthRJncdf
 
 ## Train AutoEncoder from scratch
 Run the script run.sh :
