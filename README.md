@@ -29,7 +29,7 @@ pip install zmq
 ```
 The google_drive_data.zip file can also be downloaded manualy under https://drive.google.com/file/d/1pXBp7Jvf9iS6reQbv5MxJ5z4f0lpwWaD/view?usp=share_link
 
-After unzipping the folder, chembl_28 corresponds to the AutoEncoder training data and prediction_data is the folder containing the date for the inference model
+After unzipping the folder, chembl_28 corresponds to the AutoEncoder train/test data and prediction_data is the folder containing the date for the inference model
 
 ## Train AutoEncoder from scratch
 Run the script run.sh :
