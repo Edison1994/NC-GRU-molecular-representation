@@ -1,7 +1,7 @@
 # Novel Molecular Representations using Neumann-Cayley Orthogonal Gated Recurrent Unit
 + Full Code is going to be available soon
 
-Implementation of the Paper "Novel Molecular Representations using Neumann-Cayley Orthogonal Gated Recurrent Unit" by 
+Implementation of the Paper "Novel Molecular Representations using Neumann-Cayley Orthogonal Gated Recurrent Unit" by Edison Mucllari, Vasily Zadorozhnyy, Qiang Ye and Duc Nguyen
 
 ## Installing
 
